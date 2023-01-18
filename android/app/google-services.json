@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795383795872",
+    "project_id": "alaapchari-flutter",
+    "storage_bucket": "alaapchari-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795383795872:android:ad7d03f6cbe7b0e055f9c5",
+        "android_client_info": {
+          "package_name": "dev.groupy.alaapchari.alaapchari_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795383795872-ni5iaalftpb7e59paqo9eika95618lo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwo4WfFELSyRA9A-uQ8TYnQMe8ltslAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795383795872-ni5iaalftpb7e59paqo9eika95618lo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
